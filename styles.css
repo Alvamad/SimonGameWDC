@@ -51,3 +51,8 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.pressed-correct {
+  box-shadow: 0 0 20px greenyellow;
+  background-color: grey;
+}
